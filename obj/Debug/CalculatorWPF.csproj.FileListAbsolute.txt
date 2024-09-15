@@ -1,0 +1,16 @@
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\CalculatorWPF.csproj.AssemblyReference.cache
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\CalculatorWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\App.g.cs
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\varte\Desktop\c+++\c#\WpfApp1\obj\Debug\WpfApp1.pdb

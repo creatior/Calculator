@@ -75,6 +75,10 @@ namespace WpfApp1
         private void Calculate()
         {
             Calculation result = new Calculation();
+            if (operations_signs.Any(sign => MainDisplay.Text.Substring(0, 1) == sign))
+            {
+                MainDisplay.Text = MainDisplay.Text.Insert(0, "0");
+            }
             MainDisplay.Text += $"={result.CalculateRPN(MainDisplay.Text)}";
         }
     }
