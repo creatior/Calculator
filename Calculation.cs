@@ -90,6 +90,10 @@ namespace WpfApp1
                 {
                     b = Int32.Parse(stack.Pop());
                     a = Int32.Parse(stack.Pop());
+                    if (obj == "/" && b == 0)
+                    {
+                        return "Деление на ноль невозможно";
+                    }
                     switch (obj)
                     {
                         case "+": stack.Push((a + b).ToString()); break;
